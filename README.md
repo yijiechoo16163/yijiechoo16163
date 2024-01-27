@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yijiechoo16163&show_icons=true&theme=shadow_blue" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yijiechoo16163&layout=donut&theme=shadow_blue" />
+</a>
+
+
 <!--
 **yijiechoo16163/yijiechoo16163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
