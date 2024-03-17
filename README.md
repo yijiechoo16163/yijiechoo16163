@@ -6,6 +6,8 @@
 
 ![](https://github-readme-stats-ten-pi-28.vercel.app/api/top-langs/?username=yijiechoo16163)
 
+[OpenPGP PGP Public Keys Repo](https://github.com/yijiechoo16163/OpenPGP-public-keys)
+
 
 <!--
 **yijiechoo16163/yijiechoo16163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
