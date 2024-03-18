@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats-ten-pi-28.vercel.app/api/top-langs/?username=yijiechoo16163)
 
-[OpenPGP PGP Public Keys Repo](https://github.com/yijiechoo16163/OpenPGP-public-keys)
+[OpenPGP Public Keys Repo](https://github.com/yijiechoo16163/OpenPGP-public-keys)
 
 
 <!--
