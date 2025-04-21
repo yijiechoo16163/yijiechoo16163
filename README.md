@@ -1,10 +1,10 @@
 ### Hi there 👋 
 
-![](https://github-readme-stats-nine-gilt-19.vercel.app/api?username=yijiechoo16163&show_icons=true&include_all_commits=true&rank_icon=github)
+![](https://github-readme-stats-nine-gilt-19.vercel.app/api?username=yijiechoo16163&show_icons=true&include_all_commits=true&rank_icon=github&chooyijie_refresh=1)
 
 
 
-![](https://github-readme-stats-nine-gilt-19.vercel.app/api/top-langs/?username=yijiechoo16163)
+![](https://github-readme-stats-nine-gilt-19.vercel.app/api/top-langs/?username=yijiechoo16163&chooyijie_refresh=1)
 
 [OpenPGP Public Keys Repo](https://github.com/yijiechoo16163/OpenPGP-public-keys)
 
