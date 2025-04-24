@@ -14,19 +14,20 @@ jobs:
         id: get-refresh
         run: |
           REFRESH=$(grep -oP 'chooyijie_refresh=\K\d+' README.md | head -1)
-          echo "Current value: $REFRESH"
           echo "refresh=$REFRESH" >> $GITHUB_OUTPUT
 
-      - name: Increment refresh value
+      - name: Increment and update README
+        id: update-readme
         run: |
-          NEW_REFRESH=$(( ${{ steps.get-refresh.outputs.refresh }} + 1 ))
-          sed -i "s/chooyijie_refresh=${{ steps.get-refresh.outputs.refresh }}/chooyijie_refresh=$NEW_REFRESH/g" README.md
-          echo "New value: $NEW_REFRESH"
+          OLD=${{ steps.get-refresh.outputs.refresh }}
+          NEW=$(( OLD + 1 ))
+          sed -i "s/chooyijie_refresh=$OLD/chooyijie_refresh=$NEW/g" README.md
+          echo "new_refresh=$NEW" >> $GITHUB_OUTPUT
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Increment chooyijie_refresh to $NEW_REFRESH"
+          git commit -m "Increment chooyijie_refresh to ${{ steps.update-readme.outputs.new_refresh }}"
           git push
