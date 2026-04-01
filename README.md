@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-![GitHub stats](https://github-readme-stats-nine-gilt-19.vercel.app/api?username=yijiechoo16163&show_icons=true&include_all_commits=true&hide=contribs&theme=dark&hide_border=true&chooyijie_refresh=13)
-![Top languages](https://github-readme-stats-nine-gilt-19.vercel.app/api/top-langs/?username=yijiechoo16163&layout=compact&theme=dark&hide_border=true&chooyijie_refresh=13)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=yijiechoo16163&theme=dark&hide_border=true&chooyijie_refresh=13)
+![GitHub stats](https://github-readme-stats-nine-gilt-19.vercel.app/api?username=yijiechoo16163&show_icons=true&include_all_commits=true&hide=contribs&theme=dark&hide_border=true&chooyijie_refresh=14)
+![Top languages](https://github-readme-stats-nine-gilt-19.vercel.app/api/top-langs/?username=yijiechoo16163&layout=compact&theme=dark&hide_border=true&chooyijie_refresh=14)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yijiechoo16163&theme=dark&hide_border=true&chooyijie_refresh=14)
 
 [OpenPGP Public Keys Repo](https://github.com/yijiechoo16163/OpenPGP-public-keys)
 
